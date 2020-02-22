@@ -5,3 +5,10 @@ This is similar to notepad application of windows .
 * similar Gui as notepad.
 * Codes are written in Python Using PyQt5.
 * This Projects made by me Class 10 student.
+
+# Packages Required for development
+* PIL - Python Image Library
+* PyQt5 - Gui Development Framework
+* time
+* os
+* sys
